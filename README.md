@@ -27,9 +27,9 @@ git clone https://github.com/lavanya622/calculator.git
   
 2. Open the project
 
-Go to the folder
+   - Go to the folder
 
-Open calculator.html in your browser
+   - Open calculator.html in your browser
 
-That’s it 🎉 The calculator will run instantly.
+   - That’s it 🎉 The calculator will run instantly.
 
